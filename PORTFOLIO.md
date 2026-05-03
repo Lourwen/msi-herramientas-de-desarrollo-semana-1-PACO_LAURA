@@ -1,8 +1,10 @@
-#Lourdes
+#Lourdes Paco
 ## sobre Mi
 
 Portfolio personal de Metodologia de Sistemas I
+## sobre Mi
 
+Soy Estudiante de Programacion a Distancia
 ## Habilidades Tecnicas
 
 -GIT
